@@ -3,6 +3,7 @@
 👩‍🔬 Ingeniera Química e Ingeniera en Alimentos  
 🧪 Perfil orientado a Calidad, Procesos y Mejora Continua  
 📊 Interés en análisis de datos y tecnología
+
 🔍 Experiencia en calidad, laboratorio y optimización de procesos
 
 🔭 Actualmente estoy trabajando en:
