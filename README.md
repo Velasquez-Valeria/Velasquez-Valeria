@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hola 👋 Soy Valeria
 
-<!--
-**Velasquez-Valeria/Velasquez-Valeria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍🔬 Ingeniera Química e Ingeniera en Alimentos  
+📊 Interés en análisis de datos y tecnología  
+🔍 Experiencia en calidad, laboratorio y optimización de procesos
 
-Here are some ideas to get you started:
+🔭 Actualmente estoy trabajando en:
+- Desarrollo de habilidades en Python y análisis de datos
+- Construcción de un perfil que integre ingeniería, calidad, administración y tecnología
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Actualmente estoy aprendiendo:
+- Análisis de datos con Python
+- Business Intelligence
+- Programación aplicada a la mejora de procesos
+
+👯 Me interesa colaborar en:
+- Proyectos de análisis de datos
+- Automatización y mejora de procesos
+- Proyectos relacionados con calidad, laboratorio, alimentos o salud
+
+💬 Podés preguntarme sobre:
+- Control de calidad y trabajo en laboratorio
+- Bromatología y seguridad alimentaria
+- Optimización de procesos administrativos y técnicos
+- Enfoque ingenieril aplicado a problemas reales
+
+📫 Cómo contactarme:
+- LinkedIn: https://www.linkedin.com/in/valeriavelasquez1990/
+
+⚡ Dato curioso:
+Además de la ingeniería y la tecnología, disfruto escribir y, de vez en cuando, grabar podcasts donde comparto ideas y reflexiones.
