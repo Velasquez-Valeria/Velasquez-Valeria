@@ -29,5 +29,3 @@
 📫 Cómo contactarme:
 - LinkedIn: https://www.linkedin.com/in/valeriavelasquez1990/
 
-⚡ Dato curioso:
-Además de la ingeniería y la tecnología, disfruto escribir y, de vez en cuando, grabar podcasts donde comparto ideas y reflexiones.
