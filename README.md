@@ -71,6 +71,7 @@ Proyecto de análisis y modelado de datos nutricionales utilizando herramientas 
 El proyecto incluye análisis exploratorio, preparación de datos, construcción de variables, entrenamiento de modelos y evaluación de resultados.
 
 🔗 [Ver proyecto](https://github.com/Velasquez-Valeria/Clasificacion-de-Alimentos-Antiinflamatorios-mediante-Machine-Learning)
+
 ---
 
 ## 🎯 Actualmente
