@@ -1,31 +1,101 @@
-## Hola 👋 Soy Valeria
+# 👋 Hola, soy Valeria Velasquez
 
-👩‍🔬 Ingeniera Química e Ingeniera en Alimentos  
-🧪 Perfil orientado a Calidad, Procesos y Mejora Continua  
-📊 Interés en análisis de datos y tecnología
+👩‍🔬 **Ingeniera Química e Ingeniera en Alimentos**  
+📊 **Calidad | Procesos | Mejora Continua | Data Analytics**
 
-🔍 Experiencia en calidad, laboratorio y optimización de procesos
+Soy Ingeniera Química e Ingeniera en Alimentos con experiencia en **gestión de calidad, laboratorio, administración y análisis de información**.
 
-🔭 Actualmente estoy trabajando en:
-- Desarrollo de habilidades en Python y análisis de datos aplicados a calidad
-- Integración de ingeniería, calidad, administración y tecnología
+Me interesa aplicar herramientas de **análisis de datos, tecnología y mejora continua** para optimizar procesos, facilitar la toma de decisiones y mejorar la eficiencia operativa.
 
-🌱 Actualmente estoy aprendiendo:
-- Análisis de datos con Python
+---
+
+## 🧩 Áreas de interés
+
+- Gestión y control de calidad
+- Mejora continua y optimización de procesos
+- Análisis de datos
+- Indicadores y reportes
+- Automatización de tareas y controles
+- Procesos industriales y alimentarios
+- Gestión administrativa y operativa
 - Business Intelligence
-- Programación aplicada a procesos industriales y de calidad
 
-👯 Me interesa colaborar en:
-- Proyectos de calidad y mejora continua
-- Análisis de datos aplicados a procesos
-- Automatización de controles, reportes e indicadores
+---
 
-💬 Podés preguntarme sobre:
-- Control de calidad y trabajo en laboratorio
-- Seguridad alimentaria y normativas
-- Optimización de procesos administrativos y técnicos
-- Análisis de información para la toma de decisiones
+## 🛠️ Herramientas y tecnologías
 
-📫 Cómo contactarme:
-- LinkedIn: https://www.linkedin.com/in/valeriavelasquez1990/
+### Data Analytics
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Plotly
+
+### Business Intelligence
+- Looker Studio
+- Google Sheets
+- Excel
+
+### Gestión y procesos
+- Análisis y seguimiento de indicadores
+- Optimización de procesos
+- Control de calidad
+- Gestión documental
+- Análisis de información
+
+### Otros
+- Git & GitHub
+- Tango Gestión
+
+---
+
+## 📂 Proyectos
+
+### 📊 Análisis de Ventas – E-commerce
+
+Proyecto de análisis exploratorio de datos orientado a identificar patrones de ventas y generar información para la toma de decisiones.
+
+**Herramientas:** Python, Pandas, NumPy, Matplotlib, Seaborn.
+
+🔗 [Ver proyecto](https://github.com/Velasquez-Valeria/Analisis-Ventas-Marketing-Python)
+
+---
+
+### 🧪 Análisis de datos aplicado a alimentos
+
+Proyecto de análisis y modelado de datos nutricionales utilizando herramientas de Data Analytics y Machine Learning.
+
+**Herramientas:** Python, Pandas, NumPy, Scikit-learn, Matplotlib.
+
+El proyecto incluye análisis exploratorio, preparación de datos, construcción de variables, entrenamiento de modelos y evaluación de resultados.
+
+🔗 [Ver proyecto](https://github.com/Velasquez-Valeria/Clasificacion-de-Alimentos-Antiinflamatorios-mediante-Machine-Learning)
+---
+
+## 🎯 Actualmente
+
+Estoy desarrollando mi perfil en la intersección entre:
+
+**Ingeniería + Calidad + Procesos + Datos + Tecnología**
+
+Mi objetivo es utilizar estas herramientas para **analizar problemas, identificar oportunidades de mejora y transformar datos en decisiones concretas**.
+
+---
+
+## 🤝 Me interesa colaborar en
+
+- Proyectos de mejora continua
+- Análisis de datos
+- Optimización de procesos
+- Automatización de tareas
+- Calidad y seguridad alimentaria
+- Business Intelligence
+- Proyectos industriales y tecnológicos
+
+---
+
+## 📫 Contacto
+
+💼 [LinkedIn](https://www.linkedin.com/in/valeriavelasquez1990/)
 
